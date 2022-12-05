@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/loremfooodddapp-master/lorem.iml" filepath="$PROJECT_DIR$/loremfooodddapp-master/lorem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/loremfooodddapp-master.iml" filepath="$PROJECT_DIR$/.idea/loremfooodddapp-master.iml" />
+    </modules>
+  </component>
+</project>
